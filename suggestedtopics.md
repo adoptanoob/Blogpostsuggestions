@@ -6,4 +6,6 @@ Here is the list of topics I wish Peter could find time to address in his [blog]
 
 3) What are the minimum requirements for a spree-contrib/spree_extension? (Tests, License, i18n, doc...) What should be tested, translated and documented? With as an underlying topic (title?) how to get the community interested and involved around the extension.
 
+4) How to internationalize the spree urls (if it is not too hard/useless). I mean to have our application display urls like myspree.com/produits ... instead of myspree.com/products (taking i18n maybe too seriously)
+
 ... And many more to come...
